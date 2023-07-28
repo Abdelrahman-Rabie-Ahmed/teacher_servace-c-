@@ -1,5 +1,5 @@
-#include "base.cpp"
-class Assistant: public base{
+#include "Base.cpp"
+class Assistant: public Basedata{
 	private:
 		double salary;	
 	public:

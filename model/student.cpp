@@ -1,5 +1,5 @@
-#include "base.cpp"
-class Student: public base{
+#include "Base.cpp"
+class Student: public Basedata{
 	private:
 		int groub;
 		int payments;

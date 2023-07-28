@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class base{
+class Basedata{
 	private:
 		string name;
 		string phone_number;
